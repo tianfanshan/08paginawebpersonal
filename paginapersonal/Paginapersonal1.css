@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Grape+Nuts&display=swap');
+
+header div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Grape Nuts', cursive;
+}
+h2 {
+    font-size: 70px;
+}
+hr{
+    width: 300px;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.hero1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+ .logo2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ }
+ .logo1{
+    width: 100%;
+}
+
+li{
+    list-style: none;
+    margin: 1em;
+}
+
+a{
+    text-decoration: none;
+}
