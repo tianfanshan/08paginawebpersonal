@@ -21,10 +21,6 @@ header{
     flex-direction: column;
     justify-content: space-between;
 }
-}
-a:hover{
-    color: yellow;
-}
 a:visited{
     color: blue;
 }
@@ -101,3 +97,4 @@ body{
         display: flex;
     }
 }
+
