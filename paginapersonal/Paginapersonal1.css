@@ -10,38 +10,94 @@ header div{
     justify-content: center;
     align-items: center;
     font-family: 'Grape Nuts', cursive;
+    background-attachment: fixed;
+    background-color: beige;
 }
 h2 {
     font-size: 70px;
-}
-hr{
-    width: 300px;
 }
 header{
     display: flex;
     flex-direction: column;
     justify-content: space-between;
 }
-.hero1{
+}
+a:hover{
+    color: yellow;
+}
+a:visited{
+    color: blue;
+}
+.hero:{
     display: flex;
-    flex-direction: row;
+    font-size: 20px;
+}
+.hero1:{
+    display: flex;
     justify-content: space-between;
-    
+    font-size: 20px;
+}
+hr{
+    width: 18em;
+    color: black;
 }
  .logo2{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
  }
  .logo1{
     width: 100%;
 }
-
-li{
-    list-style: none;
+.hero3{
+    margin: 0.5em;
+}    
+.hero4{
+    margin: 0.5em;
+}
+.logo3{
+    max-width: 800px;
+    margin: 0 auto; 
+}
+@media (min-width:500px) {
+    .logo3{
+        display: flex;
+    }
+}
+.logo4{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.hero5{
     margin: 1em;
 }
-
-a{
-    text-decoration: none;
+.hero6{
+    margin: 0.5em;
+    max-width: 200px;
+}
+.hero7{
+    margin: 0.5em;
+}
+@media (min-width:500px){
+    .logo4{
+        display: flex;
+    }
+}
+body{
+    background-color: rgba(44, 41, 49, 0.226);
+}
+.logo5{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.hero8{
+    display: flex;
+}
+.hero9{
+    display: flex;
+}
+@media (min-width:500px) {
+    .logo5{
+        display: flex;
+    }
 }
