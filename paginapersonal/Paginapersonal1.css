@@ -116,5 +116,10 @@ body{
     flex-direction: column;
     align-items: center;
 }
+table, th, td {
+    border: solid black;
+    border-collapse: collapse;
+    width: 500px;
+  }
 
 
