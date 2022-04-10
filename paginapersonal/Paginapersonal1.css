@@ -24,11 +24,11 @@ header{
 a:visited{
     color: blue;
 }
-.hero:{
+.hero{
     display: flex;
     font-size: 20px;
 }
-.hero1:{
+.hero1{
     display: flex;
     justify-content: space-between;
     font-size: 20px;
