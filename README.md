@@ -6,44 +6,16 @@ _Este proyecto fue desarrollado con las siguientes tecnologias:
 *HTML
 *CSS
 
-### Instalacion y despliegue
-Para desplegar este proyecto debes clonarte el repositorio a traves de el siguiente link:
-
-'''
-enlace al repo
-'''
-
 #### Vista Previa
 
-![foto](image/google.png)
+![foto](./paginapersonal/src/lion-gd49ea6e50_640.jpg)
 
 ---
 ## Autor
-Este proyecto fue desrrollado por[la clase the full stack](http://...)
+Este proyecto fue desrrollado por[la clase the full stack](https://www.thebridge.tech/)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//## La pagina principal
+## La pagina principal
 En la pagina principal he puesto mi nombre chino y la traduccion en español,Cuatro enlaces,dos foto,unas preguntas que podemos rellenar con input.
 
 ## La pagina Biografia
